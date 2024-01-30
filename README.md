@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @BroDep1
+- 👀 I’m interested in programming in Java
+- 🌱 I’m currently learning Spring
+- 💞️ I’m looking to collaborate on smth
+- 📫 How to reach me --here
+- 😄 Pronouns: егошнего/ихний
+- ⚡ Fun fact: хм...
